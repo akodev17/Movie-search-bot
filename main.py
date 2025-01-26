@@ -10,6 +10,7 @@ BOT_TOKEN = '8053216650:AAEEGYOchLI0cEqcCiZiUdpmpkFkaPEDZK0'
 MOVIE_TITLES = [
     {"title": "Inception", "link": "https://www.youtube.com/watch?v=YoHD9XEInc0"},
     {"title": "The Matrix", "link": "https://www.youtube.com/watch?v=m8e-FF8MsqU"},
+    {"title": "The Matrix", "link": "https://www.youtube.com/watch?v=m8e-FF8MsqU"},
     {"title": "The Shawshank Redemption", "link": "https://www.youtube.com/watch?v=6hB3S9bIaco"},
     {"title": "Interstellar", "link": "https://www.youtube.com/watch?v=zSWdZVtXT7E"},
     {"title": "Parasite", "link": "https://www.youtube.com/watch?v=SEUXfv87Wpk"},
